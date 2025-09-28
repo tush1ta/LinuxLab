@@ -38,6 +38,8 @@ pwd     
 
 Output: 
 
+![53141b01-ce8e-4d19-804b-133f9c4ee784](file:///C:/Users/LENOVO/OneDrive/Pictures/Typedown/53141b01-ce8e-4d19-804b-133f9c4ee784.png)
+
 
 
 ## TASK 2: [FIle Creation and Content]
@@ -61,7 +63,7 @@ Output:
 
 ### Output:
 
-
+![ef4203ef-9249-487d-9147-a282b79e7d4a](file:///C:/Users/LENOVO/OneDrive/Pictures/Typedown/ef4203ef-9249-487d-9147-a282b79e7d4a.png)
 
 ## TASK 3: [FIle Operations]
 
@@ -78,6 +80,8 @@ Output:
     cp readme.txt data/project_info.txt
 
 Output: 
+
+![da116313-0dc4-465d-b4c7-deac4a2513f7](file:///C:/Users/LENOVO/OneDrive/Pictures/Typedown/da116313-0dc4-465d-b4c7-deac4a2513f7.png)
 
 
 
@@ -103,6 +107,8 @@ chmod u+x backup.sh
 
 Output:
 
+![35ea67fd-82ce-421a-b4e8-8d141838a5be](file:///C:/Users/LENOVO/OneDrive/Pictures/Typedown/35ea67fd-82ce-421a-b4e8-8d141838a5be.png)
+
 
 
 ## TASK 5: [FIle Viewing]
@@ -123,6 +129,8 @@ Output:
     grep "1"
 
 ### Output:
+
+![4890bb9e-fd6e-42c7-951a-408ae449b619](file:///C:/Users/LENOVO/OneDrive/Pictures/Typedown/4890bb9e-fd6e-42c7-951a-408ae449b619.png)
 
 
 
@@ -154,6 +162,8 @@ cat config.txt
 
 ### Output:
 
+![f1f9ef80-8f1e-42f2-ae89-7a232fd47eb8](file:///C:/Users/LENOVO/OneDrive/Pictures/Typedown/f1f9ef80-8f1e-42f2-ae89-7a232fd47eb8.png)
+
 
 
 ## TASK 7: [System Information]
@@ -181,6 +191,8 @@ cat config.txt
 
 ### Output:
 
+![15f9aea5-ede3-43bb-9bbf-679fff396e7d](file:///C:/Users/LENOVO/OneDrive/Pictures/Typedown/15f9aea5-ede3-43bb-9bbf-679fff396e7d.png)
+
 
 
 ## TASK 8: [File Organisation]
@@ -198,6 +210,8 @@ cat config.txt
     cp test_project/data/project_info.txt    test_project/docs/notes.txt    test_project/docs/readme.txt    test_project/docs/todo.txt    test_project/scripts/config.txt    test_project/scripts/numbers.txt    test_project/scripts/system_info.txt    test_project/scripts/todo.txt    backup/
 
 ### Output:
+
+![30d1622e-dff7-4039-9f8e-5684bd5c965d](file:///C:/Users/LENOVO/OneDrive/Pictures/Typedown/30d1622e-dff7-4039-9f8e-5684bd5c965d.png)
 
 
 
@@ -217,7 +231,7 @@ cat config.txt
 
 ### Output:
 
-
+![cff16b35-0cab-435f-8dab-d665344fba7a](file:///C:/Users/LENOVO/OneDrive/Pictures/Typedown/cff16b35-0cab-435f-8dab-d665344fba7a.png)
 
 ## TASK 10: [Comprehensive Cleanup]
 
@@ -243,4 +257,4 @@ cat config.txt
 
 ### Output:
 
-
+![f05ad3d1-a821-4e81-bd86-05c0c3ee33cc](file:///C:/Users/LENOVO/OneDrive/Pictures/Typedown/f05ad3d1-a821-4e81-bd86-05c0c3ee33cc.png)
