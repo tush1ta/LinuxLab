@@ -1,8 +1,8 @@
 # LinuxLab
-Tushita Sharma  
+Name: Tushita Sharma  
 
-590029121  
+SAP ID: 590029121  
 
-Btech CSE B77
+Course: Btech CSE B77
 
 
