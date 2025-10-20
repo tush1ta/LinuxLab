@@ -1,4 +1,5 @@
 #Daily Log and Archive Script
+#Name: Tushita Sharma
  -------------------------------
 
  # Step 1: Identify user
